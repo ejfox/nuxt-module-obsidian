@@ -6,7 +6,11 @@ Bringing the magic of Obsidian to publishing with Nuxt Content. Contains a numbe
 
 ## Footnotes, backlinks, and wikilinks
 
+## Canvas Support
+
 ## Frontmatter / Properties
+
+## Table of Contents
 
 ## Obsidian Plugin Support
 
